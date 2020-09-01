@@ -1,3 +1,4 @@
 # domain filter
 
 roblox.com
+www.roblox.com
