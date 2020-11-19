@@ -5,3 +5,7 @@ www.roblox.com
 youtube.com
 www.youtube.com
 m.youtube.com
+googlevideo.com
+s.ytimg.com
+ytimg.com
+ytimg.l.google.com
