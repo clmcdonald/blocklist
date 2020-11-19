@@ -9,3 +9,6 @@ googlevideo.com
 s.ytimg.com
 ytimg.com
 ytimg.l.google.com
+youtu.be
+youtube.l.google.com
+i.google.com
